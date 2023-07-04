@@ -7,7 +7,7 @@ src="https://avatars.githubusercontent.com/u/118613840?v=4"  alt="" />
 
 <div align="center">
 
-## Skills
+### Skills
 
 <a 
 href="https://java.com/" 
@@ -156,11 +156,12 @@ rel="noreferrer">
 
 <div align="center">
 
-## Stats
+### Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SillyGoose123&hide_progress=truelayout=compact&theme=dark&hide_border=true&custom_title=Top-10-Languages&langs_count=10&title_color=0891F2&text_color=9da7af" alt="Top Languages"/>
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=SillyGoose123&show_icons=true&hide=&count_private=true&title_color=0891F2&text_color=9da7af&icon_color=0891F2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats"/>
+
+
 
 </div>
