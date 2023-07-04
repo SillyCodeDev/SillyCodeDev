@@ -17,8 +17,8 @@ rel="noreferrer">
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" 
     width="36" 
     height="36" 
-    alt="Java"/>
-</a> 
+    alt="Java"
+    /></a>
 <a 
 href="https://www.rust-lang.org/" 
 target="_blank" 
@@ -28,8 +28,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="Rust"
-    />
-</a> 
+    /></a> 
 <a 
 href="https://tauri.app" 
 target="_blank" 
@@ -39,8 +38,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="Tauri"
-    />
-</a> 
+    /></a> 
 <a 
 href="react.dev" 
 target="_blank" 
@@ -50,8 +48,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="React"
-    />
-</a> 
+    /></a> 
 <a 
 href="https://nextjs.org/" 
 target="_blank" 
@@ -61,8 +58,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="Next.js"
-    />
-</a> 
+    /></a> 
 <a 
 href="https://developer.android.com/" 
 target="_blank" 
@@ -72,8 +68,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="Android"
-    />
-</a> 
+    /></a> 
 <a 
 href="https://www.w3schools.com/c/c_intro.php" 
 target="_blank" 
@@ -83,8 +78,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="C"
-    />
-</a>  
+    /></a>  
 <a 
 href="https://www.w3schools.com/cpp/default.asp" 
 target="_blank" 
@@ -94,8 +88,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="C++"
-    />
-</a>
+    /></a>
 <a 
 href="https://www.typescriptlang.org/" 
 target="_blank" 
@@ -105,8 +98,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="TS"
-    />
-<a/>
+    /><a/>
 <a 
 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
 target="_blank" 
@@ -116,8 +108,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="JS"
-    />
-</a> 
+    /></a> 
 <a 
 href="https://nodejs.org" 
 target="_blank" 
@@ -127,8 +118,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="Node.js"
-    />
-</a> 
+    /></a> 
 <a 
 href="https://www.mysql.com/" 
 target="_blank" 
@@ -138,8 +128,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="MySql"
-    />
-</a> 
+    /></a> 
 <a 
 href="https://learn.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" 
 target="_blank" 
@@ -149,8 +138,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="C#"
-    />
-</a> 
+    /></a> 
 <a 
 href="https://www.python.org/" 
 target="_blank" 
@@ -160,8 +148,7 @@ rel="noreferrer">
     width="36" 
     height="36" 
     alt="Python"
-    />
-</a> 
+    /></a> 
 </div>
 
 
