@@ -50,15 +50,15 @@ href="react.dev">
     height="36" 
     alt="React"
     /></a> 
-<a 
-href="https://nextjs.org/">
+    <a 
+href="flutter.dev">
     <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" 
+    src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" 
     width="36" 
     height="36" 
-    alt="Next.js"
+    alt="React"
     /></a> 
-<a 
+    <a     
 href="https://developer.android.com/">
     <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" 
