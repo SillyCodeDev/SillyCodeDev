@@ -26,7 +26,7 @@ href="https://java.com/" >
 <a 
 href="https://www.rust-lang.org/">
     <img 
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" 
+    src="https://raw.githubusercontent.com/danielcranney/profileme-dev/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/skills/rust.svg" 
     width="36" 
     height="36" 
     alt="Rust"
