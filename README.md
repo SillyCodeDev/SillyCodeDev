@@ -59,14 +59,6 @@ href="https://developer.android.com/">
     alt="Android"
     /></a> 
 <a 
-href="https://www.typescriptlang.org/">
-    <img 
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" 
-    width="36" 
-    height="36" 
-    alt="TS"
-    /><a/>
-<a 
 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img 
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" 
