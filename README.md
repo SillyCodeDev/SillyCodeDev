@@ -35,14 +35,6 @@ href="https://www.rust-lang.org/">
     alt="Rust"
     /></a> 
 <a 
-href="https://tauri.app">
-    <img 
-    src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/app-icon.png" 
-    width="36" 
-    height="36" 
-    alt="Tauri"
-    /></a> 
-<a 
 href="react.dev">
     <img 
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" 
@@ -66,22 +58,6 @@ href="https://developer.android.com/">
     height="36" 
     alt="Android"
     /></a> 
-<a 
-href="https://www.w3schools.com/c/c_intro.php">
-    <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" 
-    width="36" 
-    height="36" 
-    alt="C"
-    /></a>  
-<a 
-href="https://www.w3schools.com/cpp/default.asp">
-    <img 
-    src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cpp3.svg" 
-    width="36" 
-    height="36" 
-    alt="C++"
-    /></a>
 <a 
 href="https://www.typescriptlang.org/">
     <img 
@@ -109,26 +85,10 @@ href="https://nodejs.org">
 <a 
 href="https://www.mysql.com/">
     <img 
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" 
+    src="https://raw.githubusercontent.com/danielcranney/profileme-dev/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/skills/postgresql-colored.svg" 
     width="36" 
     height="36" 
-    alt="MySql"
-    /></a> 
-<a 
-href="https://learn.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/">
-    <img 
-    src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp2.svg" 
-    width="36" 
-    height="36" 
-    alt="C#"
-    /></a> 
-<a 
-href="https://www.python.org/">
-    <img 
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" 
-    width="36" 
-    height="36" 
-    alt="Python"
+    alt="Postgres"
     /></a> 
 </div>
 
