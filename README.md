@@ -64,14 +64,6 @@ href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     alt="JS"
     /></a> 
 <a 
-href="https://nodejs.org">
-    <img 
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" 
-    width="36" 
-    height="36" 
-    alt="Node.js"
-    /></a> 
-<a 
 href="https://www.mysql.com/">
     <img 
     src="https://raw.githubusercontent.com/danielcranney/profileme-dev/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/skills/postgresql-colored.svg" 
