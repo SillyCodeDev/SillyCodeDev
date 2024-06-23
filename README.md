@@ -1,10 +1,7 @@
 <h1 align="center"> 
 <span style="font-size: 35px; color: #0891F2" >
-Hi my name is <span style="color: orange">SillyGoose123</span></span><img 
-style="border-radius: 50%; height: 25px;" 
-src="https://avatars.githubusercontent.com/u/118613840?v=4"  alt="" />
-
-
+    Hi my name is <span style="color: orange"> SillyGoose123 </span>
+</span>
 
 <h2 align="center">About Me</h2>
 <h3 style="font-size: 35px">
